@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "tools4uplift"]
+	path = tools4uplift
+	url = https://github.com/belbahrim/tools4uplift
+	shallow = true
+	registered = true
